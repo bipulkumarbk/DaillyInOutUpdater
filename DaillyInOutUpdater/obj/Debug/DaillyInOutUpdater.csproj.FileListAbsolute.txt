@@ -1,0 +1,9 @@
+E:\DaillyInOutUpdater\DaillyInOutUpdater\bin\Debug\DaillyInOutUpdater.exe.config
+E:\DaillyInOutUpdater\DaillyInOutUpdater\bin\Debug\DaillyInOutUpdater.exe
+E:\DaillyInOutUpdater\DaillyInOutUpdater\bin\Debug\DaillyInOutUpdater.pdb
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.csprojResolveAssemblyReference.cache
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.Form1.resources
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.Properties.Resources.resources
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.csproj.GenerateResource.Cache
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.exe
+E:\DaillyInOutUpdater\DaillyInOutUpdater\obj\Debug\DaillyInOutUpdater.pdb
